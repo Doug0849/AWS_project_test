@@ -1,3 +1,5 @@
+V2 修改過啦！
+
 1. 必須在父層加上以下code
 ```typescript
 const router = useRouter();
